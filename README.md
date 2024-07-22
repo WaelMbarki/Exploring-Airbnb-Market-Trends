@@ -1,4 +1,4 @@
-# Investigating Netflix Movies
+# Exploring Airbnb Market Trends
 
 ## Table of Contents
 
@@ -24,9 +24,9 @@ This data analysis aims to investigate the short-term rental market in New York 
 
 irbnb_price.csv : This is a CSV file containing data on Airbnb listing prices and locations.
 
-airbnb_room_type.csv: This is an Excel file containing data on Airbnb listing descriptions and room types.
+airbnb_room_type.csv: This is a csv file containing data on Airbnb listing descriptions and room types.
 
-airbnb_last_review.csv:This is a TSV file containing data on Airbnb host names and review dates.
+airbnb_last_review.csv:This is a csv file containing data on Airbnb host names and review dates.
 
 ### Tools
 
